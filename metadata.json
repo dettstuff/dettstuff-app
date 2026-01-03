@@ -1,0 +1,8 @@
+{
+  "name": "DettStuff Workspace",
+  "description": "A high-performance workspace for accelerating content strategy, ideation, and production using deterministic AI workflows and rigorous decision gating.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
